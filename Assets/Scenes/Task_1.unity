@@ -1509,6 +1509,10 @@ PrefabInstance:
       propertyPath: m_LODs.Array.data[0].renderers.Array.data[0].renderer
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 4739606860096494535, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
+      propertyPath: m_LODs.Array.data[1].renderers.Array.data[0].renderer
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5908162166366221854, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
       propertyPath: m_Name
       value: Building
@@ -1682,6 +1686,11 @@ PrefabInstance:
     - {fileID: 6646183920579883390, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
     - {fileID: 3320192472547218065, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
     - {fileID: 4391118993082096399, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
+    - {fileID: 862154854527576139, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
+    - {fileID: 862154853832305377, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
+    - {fileID: 862154854508054991, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
+    - {fileID: 862154855050571266, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
+    - {fileID: 5908162167469113188, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 5908162166353861103, guid: 842db95f600b38a4a936ac0db6ded7ad, type: 3}
       insertIndex: 1
